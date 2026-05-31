@@ -1,0 +1,14 @@
+What is the current size of the housing market in a selected region?
+Are property prices increasing or decreasing?
+Are housing sales increasing or decreasing?
+What is the monthly trend in property prices?
+What is the monthly trend in housing sales?
+Which regions have the highest property prices?
+Which regions generate the most housing sales?
+How has the overall regional market changed over time?
+Which regions should investors target?
+Which property type experiences the highest annual growth?
+Which property type is the most expensive?
+How have different property types performed historically?
+Which regions contain the most expensive housing markets?
+Which property type offers the best appreciation potential?
